@@ -54,3 +54,8 @@ dependencies:
     md5: d0c010517efff468651f0df80bc62adc
     cf_stacks:
       - cflinuxfs2
+  - name: node
+    version: 8.10.0
+    uri: https://nodejs.org/dist/v8.10.0/node-v8.10.0-linux-x64.tar.gz
+    cf_stacks:
+      - cflinuxfs2
